@@ -1,1 +1,54 @@
-123
+{
+
+"Options": [
+{
+"Premium":"1",
+"VIP":"1",
+"ShadowsocksR":"1"
+}
+],
+
+"Premium": [
+{"Name":"Singapore 1","Ip":"ovpn1.vuiphilippine.com"},
+{"Name":"Singapore 2","Ip":"ovpn1.vuiphilippine.com"},
+{"Name":"Singapore 3","Ip":"ovpn1.vuiphilippine.com"},
+
+
+
+],
+
+"VIP":[
+{"Name":"VIP Singapore 1","Ip":"ovpn1.vuiphilippine.com"},
+{"Name":"VIP Singapore 2","Ip":"ovpn1.vuiphilippine.com"},
+{"Name":"VIP Singapore 3","Ip":"ovpn1.vuiphilippine.com"},
+
+
+],
+
+"Shadowsocks":[
+{"Name":"SS India 1","Ip":"139.59.80.206"},
+],
+
+
+
+
+"Networks":[
+{
+"Name":"GTM NO LOAD 1",
+"Proxy":"0",
+"Port":"8080",
+"Payload":"790d204bab527d941a6c1f82fd0bb093ab4b083f73c155a1bc96169b0abf0b11568128fef022008df8d0477b59a0782562d1658c",
+"Message":"0"
+
+}
+
+
+],
+
+"Version": [
+{
+"Name":"1.2"
+}
+]
+
+}
